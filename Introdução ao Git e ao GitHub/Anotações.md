@@ -4,7 +4,7 @@
 
 ## Comandos importantes:
 
-- git add * - adiciona a alteração ao stage para ser commitado;
+- "git add *" ou "git add ." ou "git add -a" - adiciona a alteração ao stage para ser commitado;
 
 - ls - lista o conteúdo de um repositório;
 
