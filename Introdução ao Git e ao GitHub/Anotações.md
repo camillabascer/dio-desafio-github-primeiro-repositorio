@@ -28,5 +28,9 @@
 
 - git status - mostra o status do objeto;
 
+- mvdir (nome do arquivo) ./(nome da pasta) - muda o arquivo de diretório;
+
+- git init - cria a pasta .git
+
   
 
